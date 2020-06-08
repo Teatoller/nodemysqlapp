@@ -62,7 +62,7 @@
 1. open demo_create_table file and adjust database configurations
 2. on terminal run `demo_db_where`
 
-## Escape query input 
+## Escape query input
 
 1. open demo_create_table file and adjust database configurations
 2. on terminal run `demo_db_where_escape`
@@ -76,3 +76,13 @@
 
 1. open demo_create_table file and adjust database configurations
 2. on terminal run `demo_db_where_escape3`
+
+## ORDER BY filter ascending
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_orderby`
+
+## ORDER BY DESC filter ascending
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_orderby_desc`
