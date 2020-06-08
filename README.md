@@ -5,7 +5,7 @@
 ## Prerequisites
 
 - npm ^6.14.5
-- node ^v12.18.0
+- node ^12.18.0
 - MySQL
 
 ## How to test
@@ -41,3 +41,18 @@
 
 1. open demo_create_table file and adjust database configurations
 2. on terminal run `demo_db_insert_multiple`
+
+## select all records from table
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_select`
+
+## select records by column from table
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_select2`
+
+## select field records table
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_select_fields`
