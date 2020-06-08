@@ -1,1 +1,43 @@
 # nodemysqlapp
+
+- nodejs with MySQL database tutorial
+
+## Prerequisites
+
+- npm ^6.14.5
+- node ^v12.18.0
+- MySQL
+
+## How to test
+
+1. create folder my projects. Run on terminal `mkdir myprojects`
+2. on terminal run `cd myprojects`
+3. on terminal run `git clone https://github.com/Teatoller/nodemysqlapp.git`
+4. on terminal run `cd nodemysqlapp`
+5. on terminal run `cd develop`
+6. on terminal run `npm install`
+
+## Check Db connection
+
+1. open file demo_db_connection
+2. adjust as per your MySQL databes setting `host: "localhost"`,`user: "your username"`, `password: "your password"`
+3. on terminal run `demo_db_connection`
+
+## Create mydb Database
+
+1. on terminal run `demo_create_db`
+
+## Create table
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_create_table`
+
+## Insert a record into table
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_insert`
+
+## Insert multiple records into table
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_insert_multiple`
