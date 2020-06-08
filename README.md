@@ -101,3 +101,8 @@
 
 1. open demo_create_table file and adjust database configurations
 2. on terminal run `demo_db_drop_table_if`
+
+## UPDATE record
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_drop_table_if`
