@@ -56,3 +56,23 @@
 
 1. open demo_create_table file and adjust database configurations
 2. on terminal run `demo_db_select_fields`
+
+## WHERE filter
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_where`
+
+## Escape query input 
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_where_escape`
+
+## Escape query input using ?
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_where_escape2`
+
+## Multiple escape query input using ?
+
+1. open demo_create_table file and adjust database configurations
+2. on terminal run `demo_db_where_escape3`
